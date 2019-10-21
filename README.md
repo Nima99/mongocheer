@@ -1,1 +1,2 @@
 # mongocheer
+node_modules/
